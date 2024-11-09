@@ -1,0 +1,31 @@
+.Trademark {
+    font-family: 'Libre Barcode 39 Text', system-ui; 
+    font-size: 4rem;
+    color: #ff91af;
+    width: 30%;
+    text-align: center;
+    padding: 2% 0 1.25% 0;
+    margin: 0 0 1% 0;
+    background-color: rgba(255, 255, 255, 0.167);  
+    backdrop-filter: blur(20.5px);
+    border-radius: 50px;
+}
+
+@media only screen and (max-width: 1500px) {
+    .Trademark {
+        width: 60%;
+        margin-bottom: 3%;
+    }
+}
+
+
+@media only screen and (max-width: 800px) {
+    .Trademark {
+        font-size: 2.4rem;
+        width: 70%;
+        padding: 5% 0 3% 0;
+        margin-bottom: 25%;
+        backdrop-filter: blur(50px);
+
+    }
+}

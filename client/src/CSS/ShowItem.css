@@ -1,0 +1,106 @@
+.ShowItem {
+    /* border: 1px solid yellow; */
+    height: 100%;
+    width: 96%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 2% 0 3% 0;
+}
+
+.ShowItem__dateContainer {
+    /* border: 1px solid white; */
+    height: 100%;
+    width: 17.5%;
+font-family: 'Comfortaa Variable', system-ui;
+    font-size: 4.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.ShowItem__infoContainer {
+    /* border: 1px solid yellow; */
+    height: 100%;
+    width: 80%;
+    font-family: 'UnifontEX', monospace;
+    border-left: 2px solid #ffffff;
+    padding: .5% 0 .5% 1% ;
+}
+
+.infoContainer__title {
+    font-weight: 900;
+    font-size: 3rem;
+    margin: 1% 0 1% 0;
+    line-height: 110%;
+font-family: 'Comfortaa Variable', system-ui;
+    letter-spacing: .75px;
+}
+
+.infoContainer__location {
+    font-size: 2.5rem;
+    margin: 0 0 2% 0;
+}
+
+.infoContainer__warning {
+    /* border: 2px solid red; */
+    width: 50%;
+    padding: 1% 0 1% 1%;
+    color: #AC9F3C;
+    background-color: #FFF36D;
+    font-weight: 900;
+    font-size: 2rem;
+    margin: 0 0 1% 0;
+}
+
+.infoContainer__link {
+    text-decoration: underline;
+    color: #ff91af;
+    font-weight: 900;
+    font-size: 2.5rem;
+    transition: .2s ease-in-out;
+}
+
+.infoContainer__link:hover {
+    color: #ffffff;
+}
+
+
+
+@media only screen and (max-width: 800px) {
+    .ShowItem {
+        flex-direction: column;
+        margin-top: 7%;
+        text-align: center;
+    }
+
+    .ShowItem__dateContainer {
+        width: 100%;
+        padding: 0 0 2% 0;
+    }
+
+    .infoContainer__title {
+        width: 100%;
+        font-weight: 600;
+        font-size: 2rem;
+        font-family: 'UnifontEX', monospace;
+        color: #ff91af;
+    }
+
+
+    .ShowItem__infoContainer {
+        border-left: none;
+        border-top: 1px solid #ffffff;
+    }
+
+    .infoContainer__warning {
+        width: 100%;
+        margin: 5% 0 3% 0;
+        padding: 3% 0 3% 0
+    }
+
+    .infoContainer__location {
+        font-size: 1.8rem;
+    }
+}
