@@ -1,14 +1,14 @@
 export const upcomingShows = [
-    // {
-    //     id: "show_011724",
-    //     title: "Change of Heart w/ .zipbomb, title fight, joie de vivre ",
-    //     date: "Jan 17th",
-    //     time: "7:00p",
-    //     display: true,
-    //     location: "Neighborhood House",
-    //     city: "Madison, WI",
-    //     information: "$15 DONATION (PWYC)",
-    //     url: ""
-    // },
+    {
+        id: "show_012625",
+        title: "MIZZY, drive like i do, sonic daphne, slick",
+        date: "Jan 26th",
+        time: "7:00p",
+        display: true,
+        location: "Cardinal Bar",
+        city: "Madison, WI",
+        information: "$10 (PWYC)",
+        url: "https://www.instagram.com/p/DESgQtzO1-3/"
+    },
 
 ]
