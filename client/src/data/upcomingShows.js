@@ -32,17 +32,17 @@ export const upcomingShows = [
         information: "$10 at the door",
         url: "https://www.instagram.com/p/DGj-30vtfGF/?img_index=1"
     },
-    //     {
-    //     id: "show_042325",
-    //     title: "Tummyache US Tour w/ Khamsin, Drive Like I Do + more",
-    //     date: "Apr 23rd",
-    //     time: "7:00p",
-    //     display: true,
-    //     location: "Communication 608",
-    //     city: "Madison, WI",
-    //     information: "",
-    //     url: ""
-    // },
+    {
+        id: "show_042325",
+        title: "Tummyache US Tour w/ Khamsin, Drive Like I Do + more",
+        date: "Apr 23rd",
+        time: "7:00p",
+        display: true,
+        location: "Communication 608",
+        city: "Madison, WI",
+        information: "all ages show",
+        url: "https://communicationmadison.com/events/tummyache"
+    },
     //     {
     //     id: "show_061425",
     //     title: "DESTROY//SLAY, Drive Like I Do, Sonic Daphne, Sex (comma) Fear",
