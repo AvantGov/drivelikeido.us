@@ -32,16 +32,27 @@ export const upcomingShows = [
     //     information: "$10 at the door",
     //     url: "https://www.instagram.com/p/DGj-30vtfGF/?img_index=1"
     // },
+    // {
+    //     id: "show_042325",
+    //     title: "Tummyache US Tour w/ Khamsin, Drive Like I Do + more",
+    //     date: "Apr 23rd",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "Communication 608",
+    //     city: "Madison, WI",
+    //     information: "all ages show",
+    //     url: "https://communicationmadison.com/events/tummyache"
+    // },
     {
-        id: "show_042325",
-        title: "Tummyache US Tour w/ Khamsin, Drive Like I Do + more",
-        date: "Apr 23rd",
+        id: "show_060625",
+        title: "badtzmaru & whenthedustsettles w/ drive like i do",
+        date: "Jun 6th",
         time: "7:00p",
         display: true,
-        location: "Communication 608",
-        city: "Madison, WI",
-        information: "all ages show",
-        url: "https://communicationmadison.com/events/tummyache"
+        location: "House Show (email for address)",
+        city: "Rockford, IL",
+        information: "$10 PWYC",
+        url: ""
     },
     {
         id: "show_061425",
