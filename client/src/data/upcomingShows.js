@@ -63,7 +63,7 @@ export const upcomingShows = [
         location: "Nottingham Co-Op",
         city: "Madison, WI",
         information: "",
-        url: ""
+        url: "https://www.instagram.com/nottinghamballroom?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
     },
     
 ]
