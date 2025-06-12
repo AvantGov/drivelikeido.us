@@ -43,17 +43,17 @@ export const upcomingShows = [
     //     information: "all ages show",
     //     url: "https://communicationmadison.com/events/tummyache"
     // },
-    {
-        id: "show_060625",
-        title: "badtzmaru & whenthedustsettles w/ drive like i do",
-        date: "Jun 6th",
-        time: "7:00p",
-        display: true,
-        location: "House Show (email for address)",
-        city: "Rockford, IL",
-        information: "$10 PWYC",
-        url: ""
-    },
+    // {
+    //     id: "show_060625",
+    //     title: "badtzmaru & whenthedustsettles w/ drive like i do",
+    //     date: "Jun 6th",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "House Show (email for address)",
+    //     city: "Rockford, IL",
+    //     information: "$10 PWYC",
+    //     url: ""
+    // },
     {
         id: "show_061425",
         title: "DESTROY//SLAY, Drive Like I Do, Sonic Daphne, Sex (comma) Fear",
@@ -64,6 +64,17 @@ export const upcomingShows = [
         city: "Madison, WI",
         information: "",
         url: "https://www.instagram.com/nottinghamballroom?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+    },
+    {
+        id: "show_071225",
+        title: "Madison DIY Benefit Show",
+        date: "Jul 12th",
+        time: "7:00p",
+        display: true,
+        location: "Neighborhood House",
+        city: "Madison, WI",
+        information: "",
+        url: ""
     },
     
 ]
