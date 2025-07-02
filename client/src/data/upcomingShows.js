@@ -54,27 +54,27 @@ export const upcomingShows = [
     //     information: "$10 PWYC",
     //     url: ""
     // },
-    {
-        id: "show_061425",
-        title: "DESTROY//SLAY, Drive Like I Do, Sonic Daphne, Sex (comma) Fear",
-        date: "Jun 14th",
-        time: "7:00p",
-        display: true,
-        location: "Nottingham Co-Op",
-        city: "Madison, WI",
-        information: "",
-        url: "https://www.instagram.com/nottinghamballroom?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-    },
+    // {
+    //     id: "show_061425",
+    //     title: "DESTROY//SLAY, Drive Like I Do, Sonic Daphne, Sex (comma) Fear",
+    //     date: "Jun 14th",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "Nottingham Co-Op",
+    //     city: "Madison, WI",
+    //     information: "",
+    //     url: "https://www.instagram.com/nottinghamballroom?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+    // },
     {
         id: "show_071225",
-        title: "Madison DIY Benefit Show",
+        title: "Friendly Spectres, Drive Like I Do, Yolk, Faulting, Tollbooth",
         date: "Jul 12th",
         time: "7:00p",
         display: true,
         location: "Neighborhood House",
         city: "Madison, WI",
-        information: "",
-        url: ""
+        information: "BENEFIT SHOW | $10 Donation",
+        url: "https://www.instagram.com/p/DLRGPzfMk0y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     },
     
 ]
