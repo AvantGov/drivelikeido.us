@@ -65,16 +65,16 @@ export const upcomingShows = [
     //     information: "",
     //     url: "https://www.instagram.com/nottinghamballroom?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
     // },
-    {
-        id: "show_071225",
-        title: "Friendly Spectres, Drive Like I Do, Yolk, Faulting, Tollbooth",
-        date: "Jul 12th",
-        time: "7:00p",
-        display: true,
-        location: "Neighborhood House",
-        city: "Madison, WI",
-        information: "BENEFIT SHOW | $10 Donation",
-        url: "https://www.instagram.com/p/DLRGPzfMk0y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-    },
+    // {
+    //     id: "show_071225",
+    //     title: "Friendly Spectres, Drive Like I Do, Yolk, Faulting, Tollbooth",
+    //     date: "Jul 12th",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "Neighborhood House",
+    //     city: "Madison, WI",
+    //     information: "BENEFIT SHOW | $10 Donation",
+    //     url: "https://www.instagram.com/p/DLRGPzfMk0y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    // },
     
 ]
