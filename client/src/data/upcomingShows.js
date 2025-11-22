@@ -76,7 +76,7 @@ export const upcomingShows = [
     //     information: "BENEFIT SHOW | $10 Donation",
     //     url: "https://www.instagram.com/p/DLRGPzfMk0y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     // }
-    }
+    {
         id: "show_121425",
         title: "Sonic Daphne farewell w/ Hush Now Sweet Halo, Drive Like I Do, Scaled",
         date: "Dec 14th",
