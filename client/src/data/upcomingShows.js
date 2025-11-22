@@ -74,7 +74,8 @@ export const upcomingShows = [
     //     location: "Neighborhood House",
     //     city: "Madison, WI",
     //     information: "BENEFIT SHOW | $10 Donation",
-    //     url: "https://www.instagram.com/p/DLRGPzfMk0y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    //     url: "https://www.instagram.com/p/DLRGPzfMk0y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    // }
     }
         id: "show_121425",
         title: "Sonic Daphne farewell w/ Hush Now Sweet Halo, Drive Like I Do, Scaled",
@@ -84,7 +85,6 @@ export const upcomingShows = [
         location: "Cardinal Bar",
         city: "Madison, WI",
         information: "$10 Donation PWYC",
-        url: "https://www.instagram.com/p/DRTZuasjmvU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        url: "https://www.instagram.com/p/DRTZuasjmvU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
-    
 ]
