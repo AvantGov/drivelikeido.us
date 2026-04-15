@@ -87,16 +87,16 @@ export const upcomingShows = [
     //     information: "$10 Donation PWYC",
     //     url: "https://www.instagram.com/p/DRTZuasjmvU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     // },
-    {
-        id: "show_031526",
-        title: "bashford w/ drive like i do, scaled, faulting",
-        date: "Mar 15th",
-        time: "7:00p",
-        display: true,
-        location: "Cardinal Bar",
-        city: "Madison, WI",
-        information: "$7 PWYC",
-        url: "",
-    },
+    // {
+    //     id: "show_031526",
+    //     title: "bashford w/ drive like i do, scaled, faulting",
+    //     date: "Mar 15th",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "Cardinal Bar",
+    //     city: "Madison, WI",
+    //     information: "$7 PWYC",
+    //     url: "",
+    // },
     
 ]
